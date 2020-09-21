@@ -1,3 +1,3 @@
 # To-do-list
 # Click the link down bellow to view it live in your browser
-* [view this page](https://github.com/abdulebens/google-homepage.git)
+[view this page](https://abdulebens.github.io/To-do-list/)
